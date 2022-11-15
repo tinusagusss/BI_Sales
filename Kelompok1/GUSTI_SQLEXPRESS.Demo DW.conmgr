@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="GUSTI_SQLEXPRESS.Demo DW"
+  DTS:DTSID="{2F644ACE-8DD0-41E7-ACAA-904897064811}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=GUSTI\SQLEXPRESS;Initial Catalog=UTS_BI_Sales;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Kelompok1-{2F644ACE-8DD0-41E7-ACAA-904897064811}GUSTI\SQLEXPRESS.Demo DW;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
